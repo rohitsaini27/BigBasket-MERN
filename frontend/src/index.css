@@ -1,0 +1,28 @@
+body{
+  font-family: 'Ubuntu', sans-serif;
+  background-color: #dff5ca;
+}
+.bg-teal{
+  background-color: #205e5e;
+}
+.table tbody tr td{
+  font-weight: bold;
+}
+.bg-primary , .btn-primary{
+  background: linear-gradient(45deg,black, deepskyblue);
+}
+.bg-info , .btn-info{
+  background: linear-gradient(45deg,black, cadetblue);
+}
+.bg-secondary , .btn-secondary {
+  background: linear-gradient(45deg,black, mediumpurple);
+}
+.bg-success , .btn-success ,  .table-success{
+  background: linear-gradient(45deg,black, #32b338);
+}
+.bg-warning , .btn-warning {
+  background: linear-gradient(45deg,black, lightcoral);
+}
+.bg-danger , .btn-danger {
+  background: linear-gradient(45deg,black, orangered);
+}
